@@ -8,7 +8,7 @@ int main()
     double F;
     printf ("inserire gradi in F:\n");
     scanf ("%lf", &F);
-    printf ("i gardi in C sono: %.3lf", (F=conversione(F)));
+    printf ("i gradi in C sono: %.3lf", (F=conversione(F)));
     return 0;
 }
 
